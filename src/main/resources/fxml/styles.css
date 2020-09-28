@@ -1,0 +1,14 @@
+.text-field.error {
+  -fx-text-box-border: red ;
+  -fx-focus-color: red ;
+}
+.button.back-next {
+  -fx-background-color: #666666;
+}
+.button.add {
+  -fx-background-color: #80b6e5;
+  -fx-border-color: #111111;
+}
+.menu-button.add {
+  -fx-background-color: #80b6e5;
+}
